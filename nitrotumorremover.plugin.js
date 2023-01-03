@@ -17,3 +17,4 @@ element.remove();
       // Called when the plugin is deactivated
     }
 }
+ 
