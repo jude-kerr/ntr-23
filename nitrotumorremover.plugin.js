@@ -1,8 +1,8 @@
 /**
  * @name NTR-23
- * @author Miles#5157
- * @description The Nitro Tumor Remover plugin for BetterDiscord. (Thanks to PickleNik for helping)
- * @version 0.0.3
+ * @author jude1#5157 and PickleNik#0864
+ * @description The Nitro Tumor Remover plugin for BetterDiscord.
+ * @version 0.0.5
  */
 
 
@@ -14,7 +14,7 @@ module.exports = class ExamplePlugin {
             element.remove();
           }, 10000)
       // Called when the plugin is activated (including after reloads)
-      BdApi.alert("If you need help with the extension please vist: bit.ly/NTR-Plugin");
+      BdApi.alert("If you need help with the extension please vist: (URL NOT AVAIlABLE)");
     } 
 
     stop() {
